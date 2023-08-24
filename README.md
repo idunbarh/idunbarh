@@ -18,6 +18,4 @@
 
 - DevOps Engineer located in Long Beach, California
 - Focused on improving Software Supply Chain, Software Bill of Materials, and Attestations
-- Reach out on OpenSSF or CNCF Slack if you want to collaborate!
-
-![idunbarh's github stats](https://github-readme-stats.vercel.app/api?username=idunbarh&show_icons=true&theme=transparent)
+- Reach out on [OpenSSF](https://openssf.slack.com/archives/D03PTEJ0QD7) or CNCF Slack if you want to collaborate!
